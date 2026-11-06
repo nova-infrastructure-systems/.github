@@ -1,39 +1,24 @@
 # Nova Infrastructure Systems Corporation
 
-**Pre-execution governance infrastructure for programmable capital systems.**
+### Capital should not continue operating on yesterday's assumptions.
 
-Nova Infrastructure Systems develops infrastructure for preserving governed
-decision state before consequential capital actions move into local authority
-and external execution.
+Financial systems are becoming capable of operating continuously, while the institutional judgment governing capital remains accountable to people and institutions.
+
+**Nova Infrastructure Systems Corporation builds infrastructure to preserve that governing context.**
 
 ## Sharpe Nova OS
 
-Sharpe Nova OS structures governed pre-execution review state around
-machine-prepared capital actions.
+Sharpe Nova OS preserves the rationale behind delegated capital authority and makes changes that may require reconsideration visible across agents, providers, and time.
 
-```text
-Agent prepares an action.
-Nova structures review context.
-Local authority decides.
-External systems execute.
-Nova does not execute.
-```
+Our initial focus is **24/7 autonomous and semi-autonomous treasury activity involving USDC, tokenized assets, and Bitcoin.**
 
-Nova does not determine what an institution should do.
+The institution retains decision authority. Execution remains external.
 
-It does not approve, authorize, sign, settle, custody, or execute capital.
+### Explore
 
-Its role is to preserve the bounded relationship among the exact prepared
-action, source state, applicable constraints, unresolved conditions, relevant
-prior context, and the authority handoff before execution.
-
-### Public surfaces
-
-- [Sharpe Nova OS](https://github.com/nova-infrastructure-systems/sharpe-nova-os)
-- [Sharpe Nova OS on x402scan](https://www.x402scan.com/server/faeca52a-1e46-4ef5-b433-360b96e7a542)
+- [Sharpe Nova OS — Public Repository](https://github.com/nova-infrastructure-systems/sharpe-nova-os)
+- [Sharpe Nova OS — Machine-Commerce Resources](https://www.x402scan.com/server/faeca52a-1e46-4ef5-b433-360b96e7a542)
 
 ---
 
-**Nova Infrastructure Systems Corporation**
-
-Pre-execution governance infrastructure for programmable capital systems.
+**Preserving institutional judgment in an autonomous financial world.**
